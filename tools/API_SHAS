@@ -1,0 +1,11 @@
+# Update the versions here and run update-api.sh
+
+ENVOY_SHA="v1.17.2"
+
+# dependencies
+GOOGLEAPIS_SHA="82944da21578a53b74e547774cf62ed31a05b841"
+OPENCENSUS_SHA="v0.3.0"
+PGV_GIT_SHA="872b28c457822ed9c2a5405da3c33f386ac0e86f"
+PROMETHEUS_SHA="60555c9708c786597e6b07bf846d0dc5c2a46f54"
+# NB: renamed to xDS API in the source
+UDPA_SHA="cc1b757b3eddccaaaf0743cbb107742bb7e3ee4f"
